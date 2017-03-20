@@ -1,0 +1,25 @@
+URL:www.aiub.edu
+Tag Name://head/title
+Tag Value:Home | American International University-Bangladesh (AIUB)
+CONDITION:GOOD
+
+URL:www.aiub.edu
+Tag Name://head/meta
+Tag Value:aiub.edu
+CONDITION:Tag not found
+
+URL:www.aiub.edu
+Tag Name://head/link
+Tag Value://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css
+CONDITION:Tag not found
+
+URL:www.bikroy.com
+Tag Name://head/meta
+Tag Value:bikroy
+CONDITION:Tag not found
+
+URL:www.bikroy.com
+Tag Name://meta/title
+Tag Value:bikroy.com
+CONDITION:Tag not found
+

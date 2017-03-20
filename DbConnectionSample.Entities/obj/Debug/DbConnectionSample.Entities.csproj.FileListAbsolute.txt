@@ -1,0 +1,5 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\bin\Debug\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\bin\Debug\DbConnectionSample.Entities.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\obj\Debug\DbConnectionSample.Entities.csprojResolveAssemblyReference.cache
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\obj\Debug\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\obj\Debug\DbConnectionSample.Entities.pdb

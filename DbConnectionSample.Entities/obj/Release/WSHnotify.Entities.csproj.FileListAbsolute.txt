@@ -1,0 +1,4 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\bin\Release\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\bin\Release\DbConnectionSample.Entities.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\obj\Release\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Entities\obj\Release\DbConnectionSample.Entities.pdb

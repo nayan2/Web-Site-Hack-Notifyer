@@ -1,0 +1,10 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.DataAccess.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.DataAccess.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.Framework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.Entities.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\DbConnectionSample.Framework.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Debug\DbConnectionSample.DataAccess.csprojResolveAssemblyReference.cache
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Debug\DbConnectionSample.DataAccess.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Debug\DbConnectionSample.DataAccess.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Debug\MetroFramework.dll

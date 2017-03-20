@@ -1,0 +1,5 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Framework\bin\Release\DbConnectionSample.Framework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Framework\bin\Release\DbConnectionSample.Framework.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Framework\obj\Release\WSHnotify.Framework.csprojResolveAssemblyReference.cache
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Framework\obj\Release\DbConnectionSample.Framework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.Framework\obj\Release\DbConnectionSample.Framework.pdb

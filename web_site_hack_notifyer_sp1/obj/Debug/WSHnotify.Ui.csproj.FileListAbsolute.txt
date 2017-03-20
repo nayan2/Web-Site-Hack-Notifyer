@@ -1,0 +1,30 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\WSH notify.Ui.exe.config
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\WSH notify.Ui.exe
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\WSH notify.Ui.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.DataAccess.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.Framework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\HtmlAgilityPack.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\MetroFramework.Design.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\MetroFramework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\MetroFramework.Fonts.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.DataAccess.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.Entities.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\DbConnectionSample.Framework.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\HtmlAgilityPack.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\bin\Debug\HtmlAgilityPack.xml
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\WSHnotify.Ui.csprojResolveAssemblyReference.cache
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.add_new.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.check_in.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.EmailConfiguration.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.Main.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.Login.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.MainLogin.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.Notification_panel.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.Properties.Resources.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.SetFirstTimePassword.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.Setting.resources
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\WSHnotify.Ui.csproj.GenerateResource.Cache
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\WSH notify.Ui.exe
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\WSH notify.Ui.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\web_site_hack_notifyer_sp1\obj\Debug\web_site_hack_notifyer_sp1.ConnectionLink.resources

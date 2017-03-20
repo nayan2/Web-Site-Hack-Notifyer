@@ -1,0 +1,1 @@
+Data Source=DESKTOP-4I99ORT\SQLEXPRESS;Initial Catalog=web_site_hack_notifyer;Persist Security Info=True;User ID=sa;Password=p7836y617u

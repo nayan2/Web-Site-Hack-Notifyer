@@ -1,0 +1,10 @@
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.DataAccess.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.DataAccess.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.Entities.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.Framework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\MetroFramework.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.Entities.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\bin\Release\DbConnectionSample.Framework.pdb
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Release\WSHnotify.DataAccess.csprojResolveAssemblyReference.cache
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Release\DbConnectionSample.DataAccess.dll
+F:\sp1 project\web_site_hack_notifyer_sp1\DbConnectionSample.DataAccess\obj\Release\DbConnectionSample.DataAccess.pdb
